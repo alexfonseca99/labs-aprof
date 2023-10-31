@@ -1,7 +1,7 @@
 .idea
 __pycache__
 *.npz
-*.hd5
+*.hdf5
 *.ipynb
 images/
 *.eps
