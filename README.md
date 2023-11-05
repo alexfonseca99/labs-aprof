@@ -1,4 +1,5 @@
 # labs-aprof
-Laboratórios da UC Aprendizagem Profunda
 
-Código-esqueleto dado pela equipa docente. As implementações de funções e métodos foram feitas pelos alunos.
+Deep Learning course lab assignments
+
+Skeleton code was provided by the professors. Method and function implementation was made by the students.
